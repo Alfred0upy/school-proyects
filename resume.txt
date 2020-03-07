@@ -1,0 +1,46 @@
+First 
+we learn about the c program that:
+We could write coments with //like this//
+/*
+To write multiline comments
+Look like this
+*/
+Import headers with (#include)
+Constant : #define<keyword>
+Declare function asignature first or at the top of xxx.c file
+Int function ();
+Must declare funtions before main()
+Int main void ()
+To print output usuing “printf” for print in window, if %d for integer, \n is a new line
+For instant (“%d\n”, 0);
+Ints are usually 4 bytes
+Int x = 0;
+Short are usually 2 bytes
+Short x = 0;
+Char are guarantees to be 1 byte
+Char x = 0;
+If you need to declare char literal are quoted with (' ')
+Char y = ' y'
+Long are often 4 to 8 bytes
+Long long are guaranteed to be the last
+Long x = 0;
+Long long = 0;
+Float are 32_bit flotating numbers
+Float x = 0.0;
+
+When we inicialize an array we must be initialized with a concrete size
+Char array [20];                                      this array occupies 1 * 20 bytes
+Int array [20];                                         this array occupies 4 * 20 bytes = 80 bytes
+We had comparison operators
+== iquals
+!= inequality
+<  less that
+> greather that
+>= greater that or iqual
+<= less that or iqual
+No logical
+&& = and
+|| = or
+
+once upon the first class that we have we doing
+the f
