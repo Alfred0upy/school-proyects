@@ -41,6 +41,3 @@ We had comparison operators
 No logical
 && = and
 || = or
-
-once upon the first class that we have we doing
-the f
